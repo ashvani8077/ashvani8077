@@ -1,10 +1,5 @@
 
-<div style="display:flex justify-content:space-between align-item-center">
   <h1 style="color:red ">ASHVANI SHARMA</h1>
-   <img src="https://avatars.githubusercontent.com/u/122486071?v=4" width="150px" style="border-radius: 50%;">
-
-  
-</div>
 
 # 💫 About Me:
 🚀 Hi Everyone! I'm Ashvani Sharma ✨<br><br>🎓 B.Tech CSE Student | 💡 Tech Enthusiast | 🔍 Lifelong Learner<br><br>
